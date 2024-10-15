@@ -32,7 +32,7 @@ def menu_conversao():
  print('Escolha a opção de conversão: ')
  print('1. Metro para Quilômetro')
  print('2. Celsius para Fahrenheit')
- print('3. Quiogramas para Gramas')
+ print('3. Quilogramas para Gramas')
 
 r = 'S'
 while r.upper() == 'S':
